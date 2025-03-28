@@ -1,6 +1,6 @@
 # Shree Billing - Professional Offline Billing Software 💼
 
-![Shree Billing Banner](https://yourimageurl.com/banner.png) <!-- Optional if you have banner image -->
+<!-- ![Shree Billing Banner](https://yourimageurl.com/banner.png)  Optional if you have banner image -->
 
 ## 🚀 About
 
@@ -49,7 +49,7 @@ Shree Billing automatically detects new versions and downloads updates smoothly.
 
 ## 📦 Installation
 
-1. Download the latest `Shree Billing Setup.exe` from [Releases](https://github.com/yourusername/shree-billing/releases).
+1. Download the latest `Shree Billing Setup.exe` from [Releases](https://github.com/ramanlohar/shree-billing/releases).
 2. Run the setup and install.
 3. Launch the application and start managing your billing.
 
